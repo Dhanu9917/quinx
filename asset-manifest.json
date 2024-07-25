@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/qunix/static/css/main.b56353a2.css",
+    "main.js": "/qunix/static/js/main.876d3541.js",
+    "static/js/453.244ee3b7.chunk.js": "/qunix/static/js/453.244ee3b7.chunk.js",
+    "index.html": "/qunix/index.html",
+    "main.b56353a2.css.map": "/qunix/static/css/main.b56353a2.css.map",
+    "main.876d3541.js.map": "/qunix/static/js/main.876d3541.js.map",
+    "453.244ee3b7.chunk.js.map": "/qunix/static/js/453.244ee3b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b56353a2.css",
+    "static/js/main.876d3541.js"
+  ]
+}
